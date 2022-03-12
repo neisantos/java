@@ -8,7 +8,7 @@ public class java {
 		Scanner sc = new Scanner(System.in);
 		String nome = "Francisnei";
 		int idade = 51;
-		double renda = 2000;
+		double renda = 50000;
 	
 		System.out.printf(" %s\n tem %d anos\n e ganha R$ %.2f reais %n", nome, idade, renda);
 		
